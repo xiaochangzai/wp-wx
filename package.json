@@ -1,0 +1,19 @@
+{
+  "name": "wp-wx",
+  "version": "1.0.0",
+  "description": "针对小程序API封装的JS库",
+  "main": "wp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechat",
+    "wexin",
+    "js"
+  ],
+  "author": "sunJsona@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
